@@ -1,0 +1,3 @@
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/MPI322isendRecv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/MPI322isendRecv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/rhoo/Externo SAMSUNG/Programacao/CParalelaUfrgs2020_2/MPI322isendRecv/cmake-build-debug/CMakeFiles/MPI322isendRecv.dir

@@ -1,0 +1,1 @@
+mpic++   -std=c++14 -Wall -Wextra -Werror -g   CMakeFiles/MPI322isendRecv.dir/SendRecvAssincrono.cpp.o  -o MPI322isendRecv 
